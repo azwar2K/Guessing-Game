@@ -1,4 +1,4 @@
-import javax.swing.*;
+import javax.swing.*; // For using JoptionPane
 
 public class GuessingGame {
     public static void main(String[] args)
